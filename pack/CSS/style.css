@@ -1,0 +1,193 @@
+body {
+    margin: 0 ;
+    text-align: center;
+    font-family: sans-serif;
+    color: #40514E;
+}
+
+h1 {
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto ;
+    font-family: 'Sacramento', cursive;
+   color: #66BFBF;
+   line-height: 2;
+}
+
+h2 {
+    color: #66BFBF;
+    font-size:2.5rem ;
+    font-family: sans-serif;
+    font-weight: normal;
+}
+
+h3 {
+    color: #11999E;
+    font-family: ; 
+}
+
+.top-container {
+    background-color:#E8F6EF ;
+    position: relative;
+} 
+
+.pro {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: relative;left: 300px;
+    top: 50px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.man {
+    padding-top: 0px;
+}
+
+.bottom-cloud {
+    position:absolute ;
+    left: 180px;
+   
+}
+
+.middle-container {
+    margin: 50px auto;
+   
+}
+.profile {
+    position: relative;
+}
+.skills {
+    position: relative;top: 20px;
+   width: 50%;
+ margin: auto ;
+}
+
+.skill-row {
+   margin: 50px auto 100px auto;
+   text-align: left;
+   line-height: 2;
+}
+
+.p {
+    text-align: left;
+   
+}
+
+.tech{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.chilly {
+    width: 25%;
+    float:right;
+    margin-left:30px ;   
+}
+
+.computer {
+    width: 15%;
+}
+
+.skill-boy {
+    width: 50%;
+    text-align: left;
+    line-height: 2;  
+}
+
+.float {
+    float: right;
+    margin-right: 20rem;
+}
+
+.mountain {
+    background-color: #EAF6F6;
+}
+
+.pick {
+    margin-top: 50px ;  
+}
+
+.space {
+    line-height: 1.5;
+    width: 25rem;
+    margin: auto;
+}
+
+.guy {
+    margin-top: 50px ;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #EAF6F6;
+    border-width: 5px;
+    width: 2.5rem;
+}
+
+.contact-me {
+    margin-bottom: 100px;  
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: auto 0  ;
+}
+   
+
+.link {
+    display: flex;justify-content: center;  
+}
+
+.footer-link {
+    margin-right: 2rem;
+}
+
+.copy-right {
+   display: flex;justify-content: center;
+   margin: 64px 0 0;
+   color: #fff;
+   font-size: 13px;
+}
+
+.pocket {
+    margin-bottom: 50px;
+}
+
+.touch {
+    color: #40514E;
+    font-family: times;
+}
+
+a {
+    color:#40514E ;
+    margin-top: 10px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EB4747;
+}
+
+.btn {
+        -webkit-border-radius: 12;
+        -moz-border-radius: 12;
+        border-radius: 12px;
+        font-family: sans-serif;
+        color: #000000;
+        font-size: 15px;
+        border-style: ;
+        border-width: ;
+        background: #66BFBF;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+      }
+      
+      .btn:hover {
+        text-decoration: none;
+      }
+
+    
+  
+  
+      
